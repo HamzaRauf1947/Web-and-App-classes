@@ -1,0 +1,39 @@
+/* h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.otherFont{
+    font-family: "Tiny5 Duo", sans-serif;
+  
+}
+body{
+    font-size: 20px;
+}
+
+p{
+    font-size: 50%;
+} */
+
+
+p{
+    /* font-weight: bold;
+    font-style: italic; */
+    /* text-transform: capitalize; */
+    line-height: 19px;
+}
+
+a{
+    /* text-decoration: none; */
+}
+
+div{
+    /* letter-spacing: 40px; */
+    /* word-spacing: 20px; */
+    /* text-align: ; */
+}
+
+p{
+    text-indent: 20px;
+}
+
+

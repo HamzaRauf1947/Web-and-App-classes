@@ -1,0 +1,43 @@
+h1{
+    /* text-shadow: -10px 2px 10px red; */
+    /* color: #FFFFFF;
+background: black;
+text-shadow: 0 0 5px #FFF, 0 0 10px #FFF, 0 0 15px #FFF, 0 0 20px #49ff18, 0 0 30px #49FF18, 0 0 40px #49FF18, 0 0 55px #49FF18, 0 0 75px #49ff18; */
+}
+
+/* p::first-letter{
+    color: red;
+    font-size: 40px;
+} */
+
+
+/* p::first-line{
+    color: red;
+   font-size: 30px;
+} */
+
+
+/* a:link{
+    color: tan;
+    text-decoration: none;
+}
+
+a:visited{
+    color: red;
+    text-decoration: none;
+} */
+
+/* a:hover{
+    color: red;
+    text-decoration: none;
+} */
+
+/* a:active{
+    color: red;
+    text-decoration: none;
+} */
+
+a:focus{
+    color: red;
+    text-decoration: none;
+}
